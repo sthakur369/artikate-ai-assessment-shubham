@@ -1,7 +1,4 @@
-# train.py
 # fine-tunes DistilBERT on our 800 training examples
-# saves model to ./model directory
-# run once — takes 5-10 minutes on CPU
 
 import json
 import numpy as np

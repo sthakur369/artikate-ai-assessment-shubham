@@ -1,6 +1,4 @@
 # evaluate.py
-# loads test.json, runs classifier on all 200 examples
-# reports accuracy, per-class F1, confusion matrix
 
 import json
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
