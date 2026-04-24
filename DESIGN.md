@@ -62,16 +62,6 @@ ChromaDB stores vectors locally on disk as a persistent client. No server to run
 no Docker setup, no cloud dependency. For a corpus of 5 PDFs with ~200 chunks, it's
 more than sufficient.
 
-FAISS would be faster at search but it's in-memory only — you'd have to reload and
-re-embed every time the process restarts. ChromaDB persists to disk so ingestion runs
-once and retrieval is instant on subsequent runs.
-
-Pinecone is a managed cloud service — requires an API key, internet connection, and
-has cost implications at scale. That's unnecessary complexity for this use case.
-
-Weaviate and Qdrant are production-grade stores with HNSW indexing that would make
-sense at 50,000+ documents. At our scale they're overkill.
-
 ChromaDB uses cosine similarity by default which is the right metric for normalized
 text embeddings. We set hnsw:space to cosine explicitly to make this clear.
 
