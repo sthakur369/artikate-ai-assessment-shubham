@@ -1,3 +1,51 @@
+# ANSWERS.md
+
+---
+
+# Task 1 — Diagnose a Failing LLM Pipeline
+
+## Problem 1 — Wrong pricing answers
+
+**What I investigated first:**
+Pricing errors after launch with no prompt changes point to a knowledge problem.
+First check — was pricing ever explicitly provided in the prompt, or was the model
+expected to know it?
+
+**What I ruled out:**
+Temperature — that causes random variation, not confidently wrong specific numbers.
+Prompt structure — it hadn't changed and worked in testing, so not the issue.
+
+**Root cause:**
+GPT-4o has a training cutoff. It doesn't know your current prices. In testing this
+probably passed because testers used prices the model had seen, or didn't catch
+wrong numbers. Real users in production asked about real prices and got hallucinated
+or outdated ones stated confidently.
+
+**Fix:**
+Add a retrieval step. Before responding to any pricing question, fetch the current
+price from your database and inject it into the prompt. Tell the model to only use
+provided data and say "I don't have that information" if none is provided.
+
+---
+
+## Problem 2 — Responding in English to Hindi/Arabic users
+
+**Mechanism:**
+The model pays strong attention to the language of the system prompt. If instructions
+are in English, it treats English as the operating language. When the user writes in
+Hindi or Arabic, there's a conflict — and the model defaults to the instruction
+language, especially for longer responses.
+
+**Root cause:**
+No explicit language instruction in the system prompt.
+
+**Fix — add this to your system prompt:**
+
+Always respond in the same language the user writes in.
+If the user writes in Hindi, respond in Hindi.
+If the user writes in Arabic, respond in Arabic.
+Never switch languages unless the user switches first.
+
 Explicit, testable, works for any language without listing them all.
 
 ---
