@@ -1,96 +1,124 @@
-# Artikate AI Assessment --- Shubham Thakur
+# Artikate AI Assessment
 
-This repository contains solutions for all sections of the Artikate AI
-assessment.
+This repository contains solutions for all sections of the Artikate AI assessment.
 
-------------------------------------------------------------------------
+---
 
-## Overview
+## 📌 Overview
 
 The project is divided into the following tasks:
 
--   Task 1 --- Debugging an AI Chatbot\
--   Task 2 --- Legal Document RAG System\
--   Task 3 --- Support Ticket Classifier\
--   Task 4 --- Systems Design Review (written)\
--   Task 5 (Optional) --- RAG Demo Video
+- **Task 1** — Debugging an AI Chatbot  
+- **Task 2** — Legal Document RAG System  
+- **Task 3** — Support Ticket Classifier  
+- **Task 4** — Systems Design Review (Written)  
 
-------------------------------------------------------------------------
+---
 
-## Task 1 --- Debugging an AI Chatbot
+## 🧠 Task 1 — Debugging an AI Chatbot
 
-Covered in ANSWERS.md: - Root cause analysis\
-- Failure explanation\
-- Fixes and improvements
+Details and solutions are documented in:
 
-------------------------------------------------------------------------
+```
+ANSWERS.md
+```
 
-## Task 2 --- RAG Pipeline
+---
 
-Features: - PDF ingestion\
-- Paragraph-based chunking\
-- BGE embeddings\
-- ChromaDB vector store\
-- Top-k retrieval\
-- Grounded answer generation\
-- Source citation\
-- Safe refusal (no hallucination)
+## 📚 Task 2 — RAG Pipeline
 
-Run: cd task2_rag\
+### ✨ Features
+
+- PDF ingestion  
+- Paragraph-based chunking  
+- BGE embeddings  
+- ChromaDB vector store  
+- Top-k retrieval  
+- Grounded answer generation  
+- Source citation  
+- Safe refusal (prevents hallucination)  
+
+### ▶️ How to Run
+
+```bash
+cd task2_rag
 python main.py
+```
 
-Evaluation: python evaluation.py
+### 📊 Evaluation
 
-------------------------------------------------------------------------
+```bash
+python evaluation.py
+```
 
-## Task 3 --- Ticket Classifier
+---
 
-Labels: - billing\
-- technical_issue\
-- feature_request\
-- complaint\
-- other
+## 🎯 Task 3 — Ticket Classifier
 
-Model: - Fine-tuned DistilBERT\
-- CPU inference (\<500ms)
+### 🏷️ Labels
 
-Train: cd task3_classifier\
+- billing  
+- technical_issue  
+- feature_request  
+- complaint  
+- other  
+
+### 🤖 Model
+
+- Fine-tuned DistilBERT  
+- CPU inference (<500ms)  
+
+### ▶️ Training
+
+```bash
+cd task3_classifier
 python train.py
+```
 
-Evaluate: python evaluate.py
+### 📊 Evaluation
 
-Latency test: python test_latency.py
+```bash
+python evaluate.py
+```
 
-------------------------------------------------------------------------
+### ⚡ Latency Test
 
-## Task 4 --- Systems Design Review
+```bash
+python test_latency.py
+```
 
-Includes: - Evaluation framework\
-- On-prem LLM deployment
+---
 
-------------------------------------------------------------------------
+## 🏗️ Task 4 — Systems Design Review
 
-## Task 5 --- Optional Demo
+You can find it here
 
-Shows: - RAG pipeline\
-- Evaluation\
-- Safe refusal
+```
+ANSWERS.md
+```
 
-------------------------------------------------------------------------
+---
 
-## Requirements
 
+## ⚙️ Requirements
+
+Install dependencies using:
+
+```bash
 pip install -r requirements.txt
+```
 
-------------------------------------------------------------------------
+---
 
-## Structure
+## 📂 Project Structure
 
-. ├── task2_rag/ ├── task3_classifier/ ├── DESIGN.md ├── ANSWERS.md ├──
-README.md
+```
+.
+├── task2_rag/
+├── task3_classifier/
+├── DESIGN.md
+├── ANSWERS.md
+└── README.md
+```
 
-------------------------------------------------------------------------
-
-## Author
-
-Shubham Thakur
+---
