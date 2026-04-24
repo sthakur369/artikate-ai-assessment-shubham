@@ -12,6 +12,9 @@ The project is divided into the following tasks:
 - **Task 2** — Legal Document RAG System  
 - **Task 3** — Support Ticket Classifier  
 - **Task 4** — Systems Design Review (Written)  
+- **Task 5** — Loom Video  
+
+https://www.loom.com/share/ddc47343219b4e9a8ef07b4eb1c12e88
 
 ---
 
