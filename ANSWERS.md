@@ -1,4 +1,4 @@
-# ANSWERS.md
+# ANSWERS
 
 ---
 
@@ -6,17 +6,17 @@
 
 ## Problem 1 — Wrong pricing answers
 
-**What I investigated first:**
+**What I will investigate first:**
 Pricing errors after launch with no prompt changes point to a knowledge problem.
-First check — was pricing ever explicitly provided in the prompt, or was the model
-expected to know it?
+First check was pricing ever explicitly provided in the prompt, or the model need to search it from somewhere?
 
 **What I ruled out:**
 Temperature — that causes random variation, not confidently wrong specific numbers.
-Prompt structure — it hadn't changed and worked in testing, so not the issue.
+
+Prompt structure — it hadn't changed and worked in testing, so this is not the issue.
 
 **Root cause:**
-GPT-4o has a training cutoff. It doesn't know your current prices. In testing this
+GPT-4o doesn't know your current prices. In testing this
 probably passed because testers used prices the model had seen, or didn't catch
 wrong numbers. Real users in production asked about real prices and got hallucinated
 or outdated ones stated confidently.
@@ -37,7 +37,7 @@ Hindi or Arabic, there's a conflict — and the model defaults to the instructio
 language, especially for longer responses.
 
 **Root cause:**
-No explicit language instruction in the system prompt.
+No explicit language instruction in the system prompt. In testing maybe tester did not use another language so it did not come under testing time.
 
 **Fix — add this to your system prompt:**
 
@@ -58,7 +58,7 @@ Explicit, testable, works for any language without listing them all.
 If the bot appends every message to context, prompts get longer each turn. More
 tokens = slower response. Over two weeks with more users, average session length
 grew. Check this first — just compare average token count per request two weeks
-ago vs now. No infrastructure access needed.
+ago vs now.
 
 **2. No caching on repeated questions**
 Support bots get the same questions constantly. Without caching, every request
@@ -121,7 +121,7 @@ query serving.
 ChromaDB works fine up to a few hundred thousand vectors but isn't built for tens
 of millions and has no distributed support.
 
-Fix: Qdrant or Weaviate. Both use HNSW indexing for fast search at scale and support
+Fix: replace ChromaDB with Qdrant or Weaviate. Both use HNSW indexing for fast search at scale and support
 horizontal scaling. Qdrant has good filtered search which is useful for querying
 within specific contracts or date ranges.
 
@@ -129,9 +129,7 @@ within specific contracts or date ranges.
 At 50,000 NDAs, many documents share identical boilerplate. Pure vector search
 can't distinguish the same clause appearing across hundreds of similar contracts.
 
-Fix: hybrid search — vector similarity combined with BM25 keyword matching, merged
-using Reciprocal Rank Fusion. Add a cross-encoder re-ranker to score the top results
-before returning the final 3.
+Fix: move to hybrid search — combine vector similarity with BM25 keyword search.
 
 **4. Generation**
 flan-t5-base has a 512 token limit. With dense legal chunks that's already tight.
@@ -147,14 +145,10 @@ saw where flan-t5-base refused grounded answers.
 
 ## Model Choice Justification
 
-Chose fine-tuned DistilBERT over LLM prompting. Reason is latency math:
+Chose fine-tuned DistilBERT over LLM prompting. Reason is latency and cost:
 
-- GPT-4o API: 300-800ms network round trip alone, already over the 500ms limit
-- Local LLM on CPU: 5-30 seconds per request, completely fails
-- DistilBERT on CPU: 40-130ms per request, comfortably under 500ms
-
-At 2880 tickets per day, total compute is roughly 2880 × 0.05s = 144 seconds of
-processing per day. One CPU server handles this with no strain.
+- If we use prompt then we will have to inject thousands of example for every call. It will increase the cost and latency. If examples were just 10-20 then prompt method was sufficient
+- At 2880 tickets per day, cost and latency will be too much on prompt method so fine tunnig will work better here.
 
 ## Evaluation Results
 
@@ -172,12 +166,13 @@ Per-class F1:
 **complaint vs billing**
 A ticket like "I was charged twice and this is completely unacceptable" has
 both a billing signal and an emotional complaint tone. The model has to pick
-one. Adding sentiment as a feature or using multi-label classification would
-help here.
+one. 
 
 **billing vs technical_issue**
 "My payment failed" could be a billing problem or a system bug. Without more
-context the model guesses. More examples of edge cases in training data would
+context the model guesses. 
+
+for both cases more examples of edge cases in training data would
 improve separation.
 
 ## Data Note
@@ -194,7 +189,7 @@ Ran on 20 tickets. All predictions valid labels, all under 500ms, most under
 
 ---
 
-# Task 4 — Systems Design
+# Task 4
 
 ## Question B — Evaluating a Summarisation System
 
@@ -207,43 +202,16 @@ errors.
 100-200 real internal reports with human-written reference summaries. Include
 variety — short, long, technical, non-technical.
 
-**Human evaluation**
-Rate on correctness, completeness, and clarity on a 1-5 scale. This catches what
-automated metrics miss.
-
-**Regression detection**
-Keep a fixed evaluation set. Run it after every model update. If scores drop, flag
+**Confidence Score**
+Keep a fixed evaluation set. Run it after every reponse. If scores drop, flag
 it before it reaches users.
 
-**Communicating results**
-Skip raw metric numbers with stakeholders. Say "90% of summaries are factually
-correct and cover the key points" and show before/after examples of where it fails.
 
 No single metric captures true quality. Automated scores plus human review together
-are the minimum bar.
+are the real solution
 
 ---
 
-## Question C — On-Premise LLM Deployment
+## Question A and C — On-Premise LLM Deployment
 
-Setup: 2x A100 80GB, must respond under 3 seconds, fully offline.
-
-**Model choice**
-Start with Mistral 7B or LLaMA 3 8B. At FP16 these are roughly 14-16GB plus KV
-cache overhead — around 20-25GB total. Fits on one A100 with room to spare.
-70B models would likely exceed the 3 second latency requirement on this hardware.
-
-**Quantisation**
-4-bit or 8-bit quantisation using bitsandbytes or AWQ reduces memory and improves
-throughput with minimal quality loss for most tasks.
-
-**Serving**
-vLLM for production serving. Continuous batching means it handles concurrent
-requests efficiently without queuing. Expected latency around 1-2 seconds for
-500-token inputs — within the 3 second requirement.
-
-**Limitations**
-Quantisation slightly reduces quality. Larger models improve quality but push
-latency up. The right balance depends on what quality threshold the business
-actually needs — worth running evals on quantised vs full precision before
-committing.
+im not aware of Question A fully and calculation i dont think i can do just on assumption on Question C
