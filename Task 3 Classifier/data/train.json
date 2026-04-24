@@ -1,0 +1,3202 @@
+[
+  {
+    "text": "This product is not worth the price. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "The quality has gone down significantly. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Please add support for multiple languages. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot log into my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "I feel ignored by your support team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I have been waiting for a response for three days. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "I would like to export data as PDF. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I am filing a complaint about your service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have webhook support. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Nobody is responding to my emails. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "My credit card was charged without authorization.",
+    "label": "billing"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Please add support for multiple languages. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I enable notifications? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "This product is not worth the price. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add two factor authentication. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Where are your servers located? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "How do I change my profile picture?",
+    "label": "other"
+  },
+  {
+    "text": "I need to change my payment method. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have CSV export. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot delete items from my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my profile picture? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I have been waiting for a response for three days. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I am filing a complaint about your service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your response time is completely unacceptable. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need an invoice for my company records. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "The discount code was not applied to my bill. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Notifications are not working on my phone. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need a refund for the payment made last week. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I update my billing information? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "What payment methods do you accept? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Do you offer a free plan? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "I cannot change my username. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dark mode is not saving my preference.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Please add two factor authentication. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please support Google login.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Do you have a desktop app? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "I feel ignored by your support team. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Please allow custom branding. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my profile picture? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "My credit card was charged without authorization. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "I have been waiting for a response for three days. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is unacceptable for a paid product. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I cancel my account? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Please support Google login. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I change my password?",
+    "label": "other"
+  },
+  {
+    "text": "The export to CSV button does nothing. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your response time is completely unacceptable. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "My email integration stopped working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Do you have a desktop app? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "The product does not work as advertised. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is unacceptable for a paid product. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "What are your business hours? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Please add two factor authentication. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "What is your data retention policy? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my password?",
+    "label": "other"
+  },
+  {
+    "text": "I was charged twice for my subscription this month. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Your customer support is terrible.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I export my data? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "How do I change my password?",
+    "label": "other"
+  },
+  {
+    "text": "The report generation feature is broken. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you add a search filter by date? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please support Google login.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot log into my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The page takes forever to load. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is the maximum file size I can upload? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Please support Google login.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "I have been waiting for a response for three days. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "The app crashes every time I open it. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add a dark mode to the app?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add two factor authentication. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "This product is not worth the price. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the documentation?",
+    "label": "other"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Do you have a desktop app? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "It would be great to have webhook support. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "I cannot change my username. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is your data retention policy? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "Do you offer a free plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Where are your servers located?",
+    "label": "other"
+  },
+  {
+    "text": "I was overcharged compared to the plan price. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have CSV export. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "Please add keyboard shortcuts. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My credit card was charged without authorization. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Dark mode is not saving my preference.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately.",
+    "label": "billing"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "I would like to export data as PDF. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need an invoice for my company records. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Where can I find the documentation?",
+    "label": "other"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Please add support for multiple languages. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you integrate with Slack?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "How do I add a custom domain? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is your data retention policy? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Can we have custom email templates? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "My account got locked after one wrong password. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add support for multiple languages. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My payment failed but money was deducted. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "The quality has gone down significantly. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "My email integration stopped working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The app crashes every time I open it. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "Nobody is responding to my emails.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have webhook support. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is the maximum file size I can upload? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "What browsers do you support? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "What is the maximum file size I can upload? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "The report generation feature is broken. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "I cannot delete items from my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What are your business hours? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "The discount code was not applied to my bill. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I need to change my payment method. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "The export to CSV button does nothing. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need to change my payment method. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot delete items from my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would help to have bulk delete. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "What browsers do you support? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "What payment methods do you accept? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Can you integrate with Slack?",
+    "label": "feature_request"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "This product is not worth the price. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "The product does not work as advertised. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "The product does not work as advertised. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Please support Google login. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The app crashes every time I open it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My credit card was charged without authorization.",
+    "label": "billing"
+  },
+  {
+    "text": "The quality has gone down significantly. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I am considering leaving because of poor service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is the maximum file size I can upload? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Please support Google login.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The report generation feature is broken. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I have been waiting for a response for three days. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "I feel ignored by your support team. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Your customer support is terrible.",
+    "label": "complaint"
+  },
+  {
+    "text": "What is the maximum file size I can upload? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "The app crashes every time I open it. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please allow custom branding. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Your support team is rude and unhelpful. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "I need an invoice for my company records. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "This product is not worth the price. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "The quality has gone down significantly. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "I need a refund for the payment made last week. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Your response time is completely unacceptable. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Your support team is rude and unhelpful.",
+    "label": "complaint"
+  },
+  {
+    "text": "I need to change my payment method. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Please add support for multiple languages. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What are your business hours? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "My payment failed but money was deducted. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I am considering leaving because of poor service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "What is your data retention policy? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Where can I find the documentation? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I add a custom domain? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Notifications are not working on my phone. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "The discount code was not applied to my bill. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I am considering leaving because of poor service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I update my billing information? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The report generation feature is broken. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you add a dark mode to the app? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is unacceptable for a paid product. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "The discount code was not applied to my bill. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "What payment methods do you accept? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Please add keyboard shortcuts. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "Do you offer a free plan? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "What is the maximum file size I can upload? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Your response time is completely unacceptable. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you add a calendar view? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Do you have a desktop app? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Notifications are not working on my phone. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Nobody is responding to my emails. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dark mode is not saving my preference.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "My email integration stopped working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was charged twice for my subscription this month. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I wish there was a way to schedule reports. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The export to CSV button does nothing. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was overcharged compared to the plan price.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I export my data? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Do you have a desktop app? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "What browsers do you support? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Your customer support is terrible. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "Can you add a dark mode to the app? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What browsers do you support? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "My payment failed but money was deducted.",
+    "label": "billing"
+  },
+  {
+    "text": "It would be great to have CSV export. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "This is unacceptable for a paid product. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "What browsers do you support? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Notifications are not working on my phone. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I would like to export data as PDF. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "This is unacceptable for a paid product. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "I cannot change my username. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "I cannot delete items from my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I add a custom domain? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "I cannot log into my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The app crashes every time I open it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I add a custom domain? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "What payment methods do you accept? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "How do I enable notifications? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I feel ignored by your support team. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I update my billing information? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "What is your data retention policy? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Nobody is responding to my emails.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you add a calendar view? Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "I wish there was a way to schedule reports.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Do you offer a free plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "I wish there was a way to schedule reports. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The quality has gone down significantly. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I add a custom domain? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "The report generation feature is broken. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My credit card was charged without authorization. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I am considering leaving because of poor service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I wish there was a way to schedule reports.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot log into my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add keyboard shortcuts. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What payment methods do you accept? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Your support team is rude and unhelpful. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Where are your servers located?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please allow custom branding. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "I need a refund for the payment made last week. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "The export to CSV button does nothing. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can we have custom email templates? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you integrate with Slack? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Where are your servers located? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "Can you integrate with Slack? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Where are your servers located?",
+    "label": "other"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have CSV export. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add a calendar view? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add a search filter by date? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I cancel my account? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "What browsers do you support? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "I am filing a complaint about your service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "I was overcharged compared to the plan price. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you integrate with Slack?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot log into my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I update my billing information? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I add a custom domain? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "Do you have a desktop app? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "How do I change my profile picture?",
+    "label": "other"
+  },
+  {
+    "text": "Your support team is rude and unhelpful.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I cancel my account? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Do you offer a free plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "It would help to have bulk delete. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need to change my payment method. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The report generation feature is broken. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "Can you add a search filter by date?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I would like to export data as PDF. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need an invoice for my company records. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "My email integration stopped working. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would help to have bulk delete. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please support Google login. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot log into my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add a search filter by date?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The report generation feature is broken. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you add a calendar view? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What are your business hours? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Do you offer a free plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Where can I find the documentation? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "My credit card was charged without authorization. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my profile picture?",
+    "label": "other"
+  },
+  {
+    "text": "Can we have custom email templates? I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add two factor authentication. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you integrate with Slack? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you integrate with Slack? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "This product is not worth the price. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was overcharged compared to the plan price.",
+    "label": "billing"
+  },
+  {
+    "text": "My payment failed but money was deducted.",
+    "label": "billing"
+  },
+  {
+    "text": "The page takes forever to load. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I enable notifications?",
+    "label": "other"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately.",
+    "label": "billing"
+  },
+  {
+    "text": "Nobody is responding to my emails. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "The product does not work as advertised.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where are your servers located? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have webhook support. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need an invoice for my company records. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Dark mode is not saving my preference. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My payment failed but money was deducted. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Please add support for multiple languages. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot log into my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "I feel ignored by your support team. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need a refund for the payment made last week. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I wish there was a way to schedule reports.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please allow custom branding. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "My account got locked after one wrong password. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "This is unacceptable for a paid product. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "I was charged twice for my subscription this month. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I feel ignored by your support team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is the maximum file size I can upload? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "It would be great to have webhook support. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I export my data? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "How do I enable notifications? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Please allow custom branding. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Notifications are not working on my phone. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I would like to export data as PDF. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I enable notifications?",
+    "label": "other"
+  },
+  {
+    "text": "How do I cancel my account? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "I am considering leaving because of poor service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "Your customer support is terrible. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your support team is rude and unhelpful.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Can we have custom email templates? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I cancel my account? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "What are your business hours? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "The product does not work as advertised.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your customer support is terrible. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have CSV export. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your response time is completely unacceptable. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "I am filing a complaint about your service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add a search filter by date?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am filing a complaint about your service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I was overcharged compared to the plan price.",
+    "label": "billing"
+  },
+  {
+    "text": "The discount code was not applied to my bill. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "Can we have custom email templates? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My payment failed but money was deducted. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "The discount code was not applied to my bill. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "How do I enable notifications?",
+    "label": "other"
+  },
+  {
+    "text": "Please add two factor authentication. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am filing a complaint about your service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add a calendar view? Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, it would be useful to tag items.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot change my username. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "This product is not worth the price. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "I wish there was a way to schedule reports. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please allow custom branding. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, two factor authentication is not sending codes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need a refund for the payment made last week. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Nobody is responding to my emails.",
+    "label": "complaint"
+  },
+  {
+    "text": "Please add keyboard shortcuts. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Notifications are not working on my phone. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need a refund for the payment made last week. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My account got locked after one wrong password. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I add a custom domain? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "The product does not work as advertised.",
+    "label": "complaint"
+  },
+  {
+    "text": "I cannot delete items from my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would be great to have webhook support. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Where can I find the documentation?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "The page takes forever to load. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "The export to CSV button does nothing. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dark mode is not saving my preference.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need to change my payment method. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Dark mode is not saving my preference. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I export my data? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "How do I export my data? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "It would be great to have webhook support. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The discount code was not applied to my bill. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot change my username. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I export my data? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Your support team is rude and unhelpful. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add two factor authentication. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can we have custom email templates? I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is your data retention policy? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Please allow custom branding. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "What browsers do you support? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "The product does not work as advertised.",
+    "label": "complaint"
+  },
+  {
+    "text": "The quality has gone down significantly. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I change my password? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I change my password?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "Do you offer a free plan? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "Do you have a desktop app? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "How do I export my data? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "My email integration stopped working. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, why is my bill higher than last month?",
+    "label": "billing"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "I wish there was a way to schedule reports.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The report generation feature is broken. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What is your data retention policy? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "I have been waiting for a response for three days. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dark mode is not saving my preference. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot delete items from my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I export my data? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Can you add a search filter by date? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am considering leaving because of poor service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your customer support is terrible. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "What are your business hours? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Please add keyboard shortcuts. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot change my username. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was charged twice for my subscription this month. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "The payment page shows an error but money was taken. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i am being charged for features i don't use.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I cancel my account? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "What is the maximum file size I can upload? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, is there an affiliate program?",
+    "label": "other"
+  },
+  {
+    "text": "I did not receive a receipt for my last payment. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "My credit card was charged without authorization.",
+    "label": "billing"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "It would be great to have CSV export. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The page takes forever to load. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would help to have bulk delete. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The quality has gone down significantly. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Where are your servers located? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "It would help to have bulk delete. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The export to CSV button does nothing. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your response time is completely unacceptable. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "My payment failed but money was deducted.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you add a calendar view? Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add a search filter by date? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add a search filter by date?",
+    "label": "feature_request"
+  },
+  {
+    "text": "This is unacceptable for a paid product. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "I would like to export data as PDF. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "What payment methods do you accept? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "It would help to have bulk delete. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need a refund for the payment made last week. Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add a dark mode to the app?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add support for multiple languages. Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would help to have bulk delete. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I update my billing information? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "I feel ignored by your support team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "It would be great to have CSV export. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Your customer support is terrible.",
+    "label": "complaint"
+  },
+  {
+    "text": "My email integration stopped working. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I update my billing information? Can someone assist?",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I enable notifications? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I need an invoice for my company records. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "Please allow custom branding. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, the filter on the list view is not working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "My account got locked after one wrong password. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can I get a partial refund for unused days? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Please add keyboard shortcuts. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, the api is returning 500 errors.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, how do i invite a team member?",
+    "label": "other"
+  },
+  {
+    "text": "Dark mode is not saving my preference. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The product does not work as advertised. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the documentation? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Your customer support is terrible.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "What payment methods do you accept? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Can you add a calendar view? Can someone assist?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need an invoice for my company records. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "I would like to export data as PDF. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am considering leaving because of poor service. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "The page takes forever to load. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My free trial ended and I was charged immediately. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "My payment failed but money was deducted.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am filing a complaint about your service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Notifications are not working on my phone. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot delete items from my account. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you add a dark mode to the app?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Do you have a desktop app? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "I cannot change my username. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The export to CSV button does nothing. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I wish there was a way to schedule reports. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can we have custom email templates? I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The app crashes every time I open it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you add a dark mode to the app? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I keep getting a 404 error on the settings page. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My credit card was charged without authorization.",
+    "label": "billing"
+  },
+  {
+    "text": "Please add support for multiple languages. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My invoice shows an incorrect amount. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, how do i contact sales?",
+    "label": "other"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "I need a refund for the payment made last week. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I change my profile picture?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, can we get an api for third party integration?",
+    "label": "feature_request"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is your data retention policy? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, the search function returns no results.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot change my username. Can someone assist?",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i want to escalate this to a manager.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your team promised a fix two weeks ago and nothing happened. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "The app crashes every time I open it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Your support team is rude and unhelpful.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "What payment methods do you accept? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "Where are your servers located?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, i am very disappointed with recent changes.",
+    "label": "complaint"
+  },
+  {
+    "text": "My account got locked after one wrong password. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i want to switch to annual billing.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, why was i billed for a plan i didn't choose?",
+    "label": "billing"
+  },
+  {
+    "text": "How do I change my profile picture? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "My account got locked after one wrong password. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your response time is completely unacceptable. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the documentation?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, where can i find release notes?",
+    "label": "other"
+  },
+  {
+    "text": "How do I change my profile picture? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Do you offer a free plan? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Your response time is completely unacceptable. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Nobody is responding to my emails.",
+    "label": "complaint"
+  },
+  {
+    "text": "The page takes forever to load. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The page takes forever to load. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I am considering leaving because of poor service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "The export to CSV button does nothing. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I have been waiting for a response for three days. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "I have reported this issue five times with no resolution. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "This product is not worth the price. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, this is the worst software i have ever used.",
+    "label": "complaint"
+  },
+  {
+    "text": "The app crashes every time I open it. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would be great to have CSV export. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would help to have bulk delete. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What are your business hours? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Can you add a dark mode to the app? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I was overcharged compared to the plan price. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "My account got locked after one wrong password. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please support Google login. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I cannot upload files larger than 1MB. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I cancel my account? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, is there a student discount available?",
+    "label": "other"
+  },
+  {
+    "text": "Can you integrate with Slack?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Nobody is responding to my emails. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "What are your business hours? I need this resolved soon.",
+    "label": "other"
+  },
+  {
+    "text": "I need to change my payment method. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I add a custom domain? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "The dashboard is showing incorrect numbers. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot log into my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The product keeps breaking and nobody helps. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "I feel ignored by your support team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "I would like to export data as PDF. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need to change my payment method. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add a dark mode to the app?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Where can I find the documentation? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "The discount code was not applied to my bill. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I cancelled my plan but still got charged. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "I was overcharged compared to the plan price.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, my data is not syncing across devices.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I am filing a complaint about your service. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i regret signing up for this service.",
+    "label": "complaint"
+  },
+  {
+    "text": "My email integration stopped working.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I enable notifications?",
+    "label": "other"
+  },
+  {
+    "text": "I have been waiting for a response for three days. I need this resolved soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your support team is rude and unhelpful. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, can we get usage analytics in the dashboard?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, please add team collaboration features.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What browsers do you support? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "How do I change my password? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I was overcharged compared to the plan price. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I need an invoice for my company records. I need this resolved soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, my bank shows a charge i don't recognize from you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, i am extremely frustrated with the service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i would love a mobile app for android.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The quality has gone down significantly. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is unacceptable for a paid product. Can someone assist?",
+    "label": "complaint"
+  },
+  {
+    "text": "My account got locked after one wrong password. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you add a calendar view? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I change my password? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "I cannot delete items from my account. I need this resolved soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Notifications are not working on my phone. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add keyboard shortcuts. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My email integration stopped working. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add keyboard shortcuts. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I update my billing information? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "The mobile app is stuck on the loading screen. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add two factor authentication. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I update my billing information? This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I change my password? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Can we have custom email templates? I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would be great to have webhook support. I need this resolved soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I cancel my account? Can someone assist?",
+    "label": "other"
+  },
+  {
+    "text": "The page takes forever to load. Please help.",
+    "label": "technical_issue"
+  }
+]

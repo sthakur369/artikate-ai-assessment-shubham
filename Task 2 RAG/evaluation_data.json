@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which country law governs the Kubermatic agreement?",
+    "expected_keyword": "Germany"
+  },
+  {
+    "question": "What is the duration of confidentiality obligations in the Kubermatic NDA?",
+    "expected_keyword": "2 years"
+  },
+  {
+    "question": "What is the subject purpose of the Kubermatic agreement?",
+    "expected_keyword": "Kubernetes"
+  },
+  {
+    "question": "Which law governs the agreement in the UK government one-way NDA?",
+    "expected_keyword": "English law"
+  },
+  {
+    "question": "Which court handles disputes in the UK NDA?",
+    "expected_keyword": "non-exclusive jurisdiction"
+  },
+  {
+    "question": "Can a company assign duties without consent in the OJP agreement?",
+    "expected_keyword": "written consent"
+  },
+  {
+    "question": "What remedy is available if OJP agreement is breached?",
+    "expected_keyword": "irreparable"
+  },
+  {
+  "question": "What must receiving party do with materials upon request in the Kubermatic NDA?",
+  "expected_keyword": "archival"
+  },
+  {
+  "question": "What are the exceptions to confidentiality obligations in the basic NDA?",
+  "expected_keyword": "legitimate means"
+  },
+  {
+    "question": "What happens to confidentiality obligations after termination in OJP agreement?",
+    "expected_keyword": "survive"
+  }
+]

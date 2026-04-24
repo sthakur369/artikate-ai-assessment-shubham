@@ -1,1 +1,0 @@
-# artikate-ai-assessment-shubham
